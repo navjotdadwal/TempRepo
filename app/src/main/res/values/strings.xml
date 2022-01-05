@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DadwalSocialMedia</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="new_user_click_here_to_register">New User? Click here to register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="feed">Feed</string>
+    <string name="search">Search</string>
+    <string name="chatrooms">Chatrooms</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post">Post</string>
+    <string name="app_name_app">hello</string>
+    <string name="enter_your_note_details">Enter your Note Details</string>
+    <string name="enter_note_title">Enter Note Title</string>
+    <string name="button">Button</string>
+    <string name="updatedat">UpdatedAt</string>
+    <string name="note">Note</string>
+    <string name="any_notes_or_comments">Any notes or comments</string>
+</resources>

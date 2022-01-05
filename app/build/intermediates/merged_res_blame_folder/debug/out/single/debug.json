@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_authentication.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_post_text_shape.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\post_text_shape.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_item_chat_other.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_chat_other.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_edit_note.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_add_edit_note.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_shape.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_item_comment.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_feed_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\feed_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_add_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\add_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\lock_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_item_post.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_post.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_chatroom_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\chatroom_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_like_icon_outline.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\like_icon_outline.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat_text_self_shape.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\chat_text_self_shape.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_comments.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_person_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\person_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_item_chatroom.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_chatroom.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mainnotes.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_mainnotes.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_login.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_comment_bg.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\comment_bg.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_like_icon_filled.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\like_icon_filled.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\navigation_mynavgraph.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\navigation\\mynavgraph.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_button_back.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\custom_button_back.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_chat.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_placeholder_image.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\placeholder_image.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_search_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\menu_search_menu.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_create_post.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_create_post.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_send_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\send_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_register.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_search.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_text_shape.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\edit_text_shape.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_comment_icon.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\comment_icon.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_item_user.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_user.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_note_rv_item.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\note_rv_item.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_chatroom.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_feed.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\fragment_feed.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat_text_other_shape.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\chat_text_other_shape.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\layout_item_chat_self.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\item_chat_self.xml"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

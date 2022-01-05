@@ -1,0 +1,14 @@
+com/example/dadwalsocialmedia/notes/NotesDao_Impl.java
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl$1
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl$2
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl$3
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl$4
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl$5
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl$6
+ com.example.dadwalsocialmedia.notes.NotesDao_Impl$7
+com/example/dadwalsocialmedia/notes/NoteDatabase_Impl.java
+ com.example.dadwalsocialmedia.notes.NoteDatabase_Impl
+ com.example.dadwalsocialmedia.notes.NoteDatabase_Impl$1
+com/example/dadwalsocialmedia/BuildConfig.java
+ com.example.dadwalsocialmedia.BuildConfig
