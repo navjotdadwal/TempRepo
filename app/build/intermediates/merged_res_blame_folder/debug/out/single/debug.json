@@ -48,6 +48,10 @@
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_bubble_in.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\bubble_in.xml"
+    },
+    {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock_icon.xml.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\lock_icon.xml"
     },
@@ -162,6 +166,10 @@
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\drawable_bubble_out.xml.flat",
+        "source": "D:\\DadwalSocialMedia\\app\\src\\main\\res\\drawable\\bubble_out.xml"
     },
     {
         "merged": "D:\\DadwalSocialMedia\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",

@@ -1920,6 +1920,8 @@ int drawable btn_radio_off_mtrl 0x7f07005d
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f07005e
 int drawable btn_radio_on_mtrl 0x7f07005f
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f070060
+int drawable bubble_in 0x7f0700cf
+int drawable bubble_out 0x7f0700d0
 int drawable button_shape 0x7f070061
 int drawable chat_text_other_shape 0x7f070062
 int drawable chat_text_self_shape 0x7f070063
@@ -2037,12 +2039,12 @@ int id CTRL 0x7f080003
 int id FUNCTION 0x7f080004
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
-int id Notes 0x7f08023e
 int id SHIFT 0x7f080007
 int id SHOW_ALL 0x7f080008
 int id SHOW_PATH 0x7f080009
 int id SHOW_PROGRESS 0x7f08000a
 int id SYM 0x7f08000b
+int id Skills 0x7f08024e
 int id TOP_END 0x7f08000c
 int id TOP_START 0x7f08000d
 int id accelerate 0x7f08000e
@@ -2885,7 +2887,10 @@ int string common_signin_button_text_long 0x7f0f0039
 int string confirm_password 0x7f0f003a
 int string default_web_client_id 0x7f0f003b
 int string email 0x7f0f003c
+int string enter_comment 0x7f0f00c1
 int string enter_note_title 0x7f0f00ba
+int string enter_skills 0x7f0f00c2
+int string enter_user_name 0x7f0f00c3
 int string enter_your_note_details 0x7f0f00bb
 int string error_camera_app_not_found 0x7f0f003d
 int string error_failed_pick_gallery_image 0x7f0f003e
@@ -3015,6 +3020,7 @@ int string ucrop_mutate_exception_hint 0x7f0f00b6
 int string ucrop_rotate 0x7f0f00b7
 int string ucrop_scale 0x7f0f00b8
 int string updatedat 0x7f0f00bd
+int string user 0x7f0f00c4
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001
 int style AndroidThemeColorAccentYellow 0x7f100002

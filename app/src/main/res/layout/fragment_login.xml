@@ -104,16 +104,6 @@
         android:visibility="gone"
         tools:visibility="visible" />
 
-    <TextView
-        android:id="@+id/Notes"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/any_notes_or_comments"
-        android:textColor="@android:color/black"
-        android:layout_marginBottom="50dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
 
     <TextView
         android:id="@+id/go_to_register"

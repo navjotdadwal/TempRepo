@@ -43,6 +43,7 @@ class ProfileFragment: Fragment() {
         val userName: EditText = view.findViewById(R.id.user_name)
         val userBio: EditText = view.findViewById(R.id.user_bio)
         val saveButton: Button = view.findViewById(R.id.save_button)
+        val skillButton: Button = view.findViewById(R.id.Skills)
         val logoutButton: Button = view.findViewById(R.id.logout_button)
 
         userName.setText(UserUtils.user?.name)
@@ -55,8 +56,12 @@ class ProfileFragment: Fragment() {
                 .maxResultSize(1080, 1080)
                 .start()
         }
+        skillButton.setOnClickListener{
+            val intent = Intent(activity, MainnotesActivity::class.java)
+            context?.startActivity(intent)
+        }
 
-        Glide.with(context!!)
+        Glide.with(requireContext())
             .load(UserUtils.user?.imageUrl)
             .placeholder(R.drawable.person_icon)
             .centerCrop()
@@ -94,6 +99,7 @@ class ProfileFragment: Fragment() {
             context?.startActivity(intent)
             activity?.finish()
         }
+
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {

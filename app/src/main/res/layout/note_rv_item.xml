@@ -22,7 +22,7 @@
             android:layout_margin="3dp"
             android:layout_toStartOf="@id/idIVDelete"
             android:padding="4dp"
-            android:text="@string/note"
+            android:text="@string/user"
             android:textColor="@color/white"
             android:textSize="18sp" />
 

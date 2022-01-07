@@ -1921,6 +1921,8 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable bubble_in
+drawable bubble_out
 drawable button_shape
 drawable chat_text_other_shape
 drawable chat_text_self_shape
@@ -2038,12 +2040,12 @@ id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
-id Notes
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id Skills
 id TOP_END
 id TOP_START
 id accelerate
@@ -2886,7 +2888,10 @@ string common_signin_button_text_long
 string confirm_password
 string default_web_client_id
 string email
+string enter_comment
 string enter_note_title
+string enter_skills
+string enter_user_name
 string enter_your_note_details
 string error_camera_app_not_found
 string error_failed_pick_gallery_image
@@ -3016,6 +3021,7 @@ string ucrop_mutate_exception_hint
 string ucrop_rotate
 string ucrop_scale
 string updatedat
+string user
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

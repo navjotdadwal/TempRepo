@@ -22,7 +22,7 @@
         android:id="@+id/enter_comment"
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:hint="Enter_comment"
+        android:hint="@string/enter_comment"
         android:padding="15dp"
         android:layout_margin="16dp"
         android:background="@drawable/comment_bg"

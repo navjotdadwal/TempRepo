@@ -55,6 +55,18 @@
          app:layout_constraintStart_toStartOf="parent"
          app:layout_constraintEnd_toEndOf="parent"/>
 
+    <Button
+        android:id="@+id/Skills"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:text="Skills Section"
+        android:background="@drawable/button_shape"
+        android:textColor="@android:color/white"
+        app:layout_constraintTop_toBottomOf="@+id/save_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
     <android.widget.Button
         android:id="@+id/logout_button"
         android:layout_width="match_parent"

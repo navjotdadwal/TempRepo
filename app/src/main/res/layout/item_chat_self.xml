@@ -10,7 +10,7 @@
         android:id="@+id/chat_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/chat_text_self_shape"
+        android:background="@drawable/bubble_in"
         android:textColor="@android:color/white"
         android:padding="20dp"
         app:layout_constraintTop_toTopOf="parent"

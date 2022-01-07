@@ -46,11 +46,11 @@ class AddEditNoteActivity : AppCompatActivity() {
             val noteTitle = intent.getStringExtra("noteTitle")
             val noteDescription = intent.getStringExtra("noteDescription")
             noteID = intent.getIntExtra("noteId", -1)
-            saveBtn.setText("Update Note")
+            saveBtn.setText("Update Skills")
             noteTitleEdt.setText(noteTitle)
             noteEdt.setText(noteDescription)
         } else {
-            saveBtn.setText("Save Note")
+            saveBtn.setText("Save Skills")
         }
 
         // on below line we are adding

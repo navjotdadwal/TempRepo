@@ -39,7 +39,9 @@ class LoginFragment : Fragment() {
         val goToRegister: TextView = view.findViewById(R.id.go_to_register)
 
         goToRegister.setOnClickListener {
-            it.findNavController().navigate(R.id.action_loginFragment_to_registerFragment)
+            fragmentManager?.beginTransaction()
+                ?.replace(R.id.auth_fragment_container, RegisterFragment())
+                ?.commit()
         }
 
         val emailText: TextInputLayout = view.findViewById(R.id.email_text)
